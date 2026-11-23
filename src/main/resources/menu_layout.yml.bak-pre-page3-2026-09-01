@@ -1,0 +1,891 @@
+slots:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:player_head
+    count: 1
+    components:
+      minecraft:profile: '{id:[I;0,0,0,0],name:"",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmY2MjRhNDRlNzdiOTVkYmUxY2M3MzU1MzY5NTNlODQwYmE2YzE5YjAxNTdjNTQ5ZDliODI1MzQ2NDhjOGNlNCJ9fX0="}]}'
+      minecraft:lore: '[{italic:0b,text:"§7ʀɪɢʜᴛ-ᴄʟɪᴄᴋ ᴛᴏ ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ɢᴇᴍ ᴛʏᴘᴇ"},{italic:0b,text:"§7ʏᴏᴜ
+        ᴡɪʟʟ ʀᴇᴄᴇɪᴠᴇ ᴀ ʀᴀɴᴅᴏᴍ ɢᴇᴍ"},{italic:0b,text:""},{italic:0b,text:"§cᴡᴀʀɴɪɴɢ:
+        ᴜꜱɪɴɢ ᴛʜɪꜱ ᴡɪʟʟ ʟᴏꜱᴇ ʏᴏᴜʀ ᴄᴜʀʀᴇɴᴛ ɢᴇᴍ"}]'
+      minecraft:custom_name: '{italic:0b,text:"§b§lTrade Your Gem"}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"trader"}}'
+    schema_version: 1
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:prismarine_shard
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:1b,color:"dark_red",text:"ꜱᴛʀᴇɴɢᴛʜ "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[10.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"gem_1"}}'
+    schema_version: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:prismarine_shard
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:1b,color:"gold",text:"ꜰɪʀᴇ "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[2.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"gem_2"}}'
+    schema_version: 1
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:prismarine_shard
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:1b,color:"dark_green",text:"ᴡᴇᴀʟᴛʜ "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[12.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"gem_3"}}'
+    schema_version: 1
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:prismarine_shard
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:1b,color:"yellow",text:"ꜱᴘᴇᴇᴅ "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[8.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"gem_4"}}'
+    schema_version: 1
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:player_head
+    count: 1
+    components:
+      minecraft:profile: '{id:[I;0,0,0,0],name:"",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDk5MmU0YThmNDNjNzdhYzJlMmQ3OTJkOTYwNGY2MWYzNDM4N2M4NzdhYmEzNzEyZTQwNDdiNzQwYzU3OCJ9fX0="}]}'
+      minecraft:lore: '[{italic:0b,text:"§fʀɪɢʜᴛ-ᴄʟɪᴄᴋ ᴛᴏ ᴜᴘɢʀᴀᴅᴇ ʏᴏᴜʀ ɢᴇᴍ"},{italic:0b,text:""},{italic:0b,text:"§cᴡᴀʀɴɪɴɢ:
+        ᴜᴘɢʀᴀᴅᴇʀ ᴡɪʟʟ ᴅʀᴏᴘ ᴏɴ ᴅᴇᴀᴛʜ"}]'
+      minecraft:custom_name: '{italic:0b,text:"§b§lUpgrade Your Gem"}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"upgrader"}}'
+    schema_version: 1
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:prismarine_shard
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:1b,color:"white",text:"ᴘᴜꜰꜰ "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[6.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"gem_5"}}'
+    schema_version: 1
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:prismarine_shard
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:1b,color:"dark_purple",text:"ᴀꜱᴛʀᴀ "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[14.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"gem_6"}}'
+    schema_version: 1
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:prismarine_shard
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:1b,color:"light_purple",text:"ʟɪꜰᴇ "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[4.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"gem_7"}}'
+    schema_version: 1
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:prismarine_shard
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{bold:1b,color:"aqua",text:"ꜰʟᴜx "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[98.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"gem_8"}}'
+    schema_version: 1
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nautilus_shell
+    count: 1
+    components:
+      minecraft:lore: '["§7Click to remove 1 energy"]'
+      minecraft:custom_name: '{italic:0b,text:"§c§lᴇɴᴇʀɢʏ −1"}'
+      minecraft:custom_model_data: '{floats:[300.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"bliss:energy_expiry":1782255647261L,"bliss:energy_shown":"1
+        hour","blissplugin:menu_fn":"minus"}}'
+    schema_version: 1
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nautilus_shell
+    count: 1
+    components:
+      minecraft:custom_name: '{italic:0b,text:"§a§lSet Energy to Pristine"}'
+      minecraft:custom_model_data: '{floats:[210.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"restore"}}'
+    schema_version: 1
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nautilus_shell
+    count: 1
+    components:
+      minecraft:lore: '["§7Click to add 1 energy"]'
+      minecraft:custom_name: '{italic:0b,text:"§a§lᴇɴᴇʀɢʏ +1"}'
+      minecraft:custom_model_data: '{floats:[300.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"bliss:energy_expiry":1782255647261L,"bliss:energy_shown":"1
+        hour","blissplugin:menu_fn":"plus"}}'
+    schema_version: 1
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:black_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gray_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:red_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gray_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gray_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gray_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gray_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gray_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:yellow_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gray_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:red_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:repeating_command_block
+    count: 1
+    components:
+      minecraft:lore: '[{bold:1b,color:"white",italic:0b,text:"ʙʟᴇᴇᴅ ᴛʜᴇᴍ ᴅʀʏ"},{color:"white",italic:0b,text:""},{extra:[{color:"#87161B",text:"🔮
+        "},{color:"#FFE4AB",text:"ᴘᴀssɪᴠᴇs"}],italic:0b,text:""},{color:"gray",italic:0b,text:"-
+        Auto Crit"},{color:"gray",italic:0b,text:"- Enduring Strength"},{color:"gray",italic:0b,text:"-
+        Hemorrhage"},{color:"gray",italic:0b,text:"- Blood Hardening"},{color:"white",italic:0b,text:""},{extra:[{color:"#87161B",text:"🔮
+        "},{bold:1b,color:"#82F3FF",text:"ᴀʙɪʟɪᴛʏ"}],italic:0b,text:""},{extra:[{color:"gray",text:"-
+        "},{color:"#87161B",text:"Bloodsaws"}],italic:0b,text:""},{color:"white",italic:0b,text:""},{extra:[{color:"#87161B",text:"🔮
+        "},{bold:1b,color:"#B8FFFB",text:"ᴘᴏᴡᴇʀs"}],italic:0b,text:""},{extra:[{color:"gray",text:"-
+        🔡 "},{color:"#C8102E",text:"ʙʟᴏᴏᴅ ʟɪɴᴋɪɴɢ"}],italic:0b,text:""}]'
+      minecraft:tooltip_display: '{hidden_components:["minecraft:enchantments"]}'
+      minecraft:enchantments: '{"minecraft:mending":1}'
+      minecraft:custom_name: '{extra:[{bold:1b,color:"#87161B",text:"ʜᴇʀᴇᴛɪᴄ "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[30001.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"bliss:mythic_blood":1b,"blissplugin:menu_fn":"mythic_heretic"}}'
+    schema_version: 1
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:red_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:yellow_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:repeating_command_block
+    count: 1
+    components:
+      minecraft:lore: '[{bold:1b,color:"white",italic:0b,text:"ᴊᴜᴅɢᴇᴍᴇɴᴛ ꜰʀᴏᴍ ᴀʙᴏᴠᴇ"},{color:"white",italic:0b,text:""},{extra:[{color:"#E3B94F",text:"🔮
+        "},{color:"#FFE4AB",text:"ᴘᴀssɪᴠᴇs"}],italic:0b,text:""},{color:"gray",italic:0b,text:"-
+        Divine Purity"},{color:"gray",italic:0b,text:"- Angel''s Grasp"},{color:"gray",italic:0b,text:"-
+        Feathered Fall"},{color:"gray",italic:0b,text:"- Hauling Strike"},{color:"white",italic:0b,text:""},{extra:[{color:"#E3B94F",text:"🔮
+        "},{bold:1b,color:"#82F3FF",text:"ᴀʙɪʟɪᴛʏ"}],italic:0b,text:""},{extra:[{color:"gray",text:"-
+        ⊳ "},{color:"#E3B94F",text:"Venerated Perforators"}],italic:0b,text:""},{color:"white",italic:0b,text:""},{extra:[{color:"#E3B94F",text:"🔮
+        "},{bold:1b,color:"#B8FFFB",text:"ᴘᴏᴡᴇʀs"}],italic:0b,text:""},{extra:[{color:"gray",text:"-
+        ⊲ "},{color:"#FFE9A8",text:"ᴇᴄʜᴏɪɴɢ ᴀᴇɢɪs"}],italic:0b,text:""}]'
+      minecraft:tooltip_display: '{hidden_components:["minecraft:enchantments"]}'
+      minecraft:enchantments: '{"minecraft:mending":1}'
+      minecraft:custom_name: '{extra:[{bold:1b,color:"#E3B94F",text:"ᴀᴜʀᴀᴛᴜs "},{color:"#FFD773",text:"ɢᴇᴍ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[30002.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"bliss:mythic_aegis":1b,"blissplugin:menu_fn":"mythic_auratus"}}'
+    schema_version: 1
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:yellow_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:gray_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '46':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:red_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:arrow
+    count: 1
+    components:
+      minecraft:lore: '["§7Open page 2"]'
+      minecraft:custom_name: '{italic:0b,text:"§e§lNext Page →"}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"page_next"}}'
+    schema_version: 1
+page2:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nautilus_shell
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{color:"#FFD773",text:"ɢᴇᴍ "},{color:"gray",text:"ꜰʀᴀɢᴍᴇɴᴛ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[240.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"give_fragment"}}'
+    schema_version: 1
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nautilus_shell
+    count: 1
+    components:
+      minecraft:custom_name: '{bold:1b,color:"gray",italic:0b,text:"ʀᴇᴘᴀɪʀ ᴋɪᴛ"}'
+      minecraft:custom_model_data: '{floats:[200.0f]}'
+    schema_version: 1
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nautilus_shell
+    count: 1
+    components:
+      minecraft:lore: '[{color:"#90EE90",italic:0b,text:"Converted from bottled energy."},{color:"gray",italic:0b,text:"Cannot
+        be reversed or restore gem energy."}]'
+      minecraft:custom_name: '{extra:[{bold:1b,color:"#90EE90",text:"ᴇɴᴇʀɢʏ "},{color:"#90EE90",text:"ᴛᴏᴋᴇɴ"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[350.0f]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"give_energy_token"}}'
+    schema_version: 1
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nautilus_shell
+    count: 1
+    components:
+      minecraft:custom_name: '{extra:[{color:"light_purple",text:"Restoration "},{color:"white",text:"Item"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[210.0f]}'
+    schema_version: 1
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:pitcher_pod
+    count: 1
+    components:
+      minecraft:unbreakable: '{}'
+      minecraft:lore: '[{extra:[{color:"#AA66FF",text:"ꜱ"},{color:"#BB69F8",text:"ᴏ"},{color:"#CC6DF1",text:"ᴜ"},{color:"#DD70EB",text:"ʟ"},{color:"#EE74E4",text:"
+        "},{color:"#FF77DD",text:"ᴏ"},{color:"#EE74E4",text:"ᴡ"},{color:"#DD70EB",text:"ɴ"},{color:"#CC6DF1",text:"ᴇ"},{color:"#BB69F8",text:"ʀ"}],italic:0b,text:""},{color:"white",italic:0b,text:"KaiCenat"}]'
+      minecraft:enchantment_glint_override: 1b
+      minecraft:custom_name: '{extra:[{color:"gold",text:"V"},{color:"#FFB70D",text:"i"},{color:"#FFC41A",text:"l"},{color:"#FFD127",text:"l"},{color:"#FFDE34",text:"a"},{color:"#FFEB41",text:"g"},{color:"#FFF84E",text:"e"},{color:"#FFF84E",text:"r"},{color:"#FFEB41",text:"
+        "},{color:"#FFDE34",text:"S"},{color:"#FFD127",text:"o"},{color:"#FFC41A",text:"u"},{color:"#FFB70D",text:"l"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[361.0f]}'
+    schema_version: 1
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:pitcher_pod
+    count: 1
+    components:
+      minecraft:unbreakable: '{}'
+      minecraft:lore: '[{extra:[{color:"#AA66FF",text:"ꜱ"},{color:"#BB69F8",text:"ᴏ"},{color:"#CC6DF1",text:"ᴜ"},{color:"#DD70EB",text:"ʟ"},{color:"#EE74E4",text:"
+        "},{color:"#FF77DD",text:"ᴏ"},{color:"#EE74E4",text:"ᴡ"},{color:"#DD70EB",text:"ɴ"},{color:"#CC6DF1",text:"ᴇ"},{color:"#BB69F8",text:"ʀ"}],italic:0b,text:""},{color:"white",italic:0b,text:"Darren
+        Watkins"}]'
+      minecraft:enchantment_glint_override: 1b
+      minecraft:custom_name: '{extra:[{color:"gold",text:"V"},{color:"#FFB70D",text:"i"},{color:"#FFC41A",text:"l"},{color:"#FFD127",text:"l"},{color:"#FFDE34",text:"a"},{color:"#FFEB41",text:"g"},{color:"#FFF84E",text:"e"},{color:"#FFF84E",text:"r"},{color:"#FFEB41",text:"
+        "},{color:"#FFDE34",text:"S"},{color:"#FFD127",text:"o"},{color:"#FFC41A",text:"u"},{color:"#FFB70D",text:"l"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[362.0f]}'
+    schema_version: 1
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:pitcher_pod
+    count: 1
+    components:
+      minecraft:lore: '[{extra:[{color:"#AA66FF",text:"ꜱ"},{color:"#BB69F8",text:"ᴏ"},{color:"#CC6DF1",text:"ᴜ"},{color:"#DD70EB",text:"ʟ"},{color:"#EE74E4",text:"
+        "},{color:"#FF77DD",text:"ᴏ"},{color:"#EE74E4",text:"ᴡ"},{color:"#DD70EB",text:"ɴ"},{color:"#CC6DF1",text:"ᴇ"},{color:"#BB69F8",text:"ʀ"}],italic:0b,text:""},{color:"white",italic:0b,text:"Duke
+        Dennis"}]'
+      minecraft:unbreakable: '{}'
+      minecraft:enchantment_glint_override: 1b
+      minecraft:custom_name: '{extra:[{color:"gold",text:"V"},{color:"#FFB70D",text:"i"},{color:"#FFC41A",text:"l"},{color:"#FFD127",text:"l"},{color:"#FFDE34",text:"a"},{color:"#FFEB41",text:"g"},{color:"#FFF84E",text:"e"},{color:"#FFF84E",text:"r"},{color:"#FFEB41",text:"
+        "},{color:"#FFDE34",text:"S"},{color:"#FFD127",text:"o"},{color:"#FFC41A",text:"u"},{color:"#FFB70D",text:"l"}],italic:0b,text:""}'
+      minecraft:custom_model_data: '{floats:[360.0f]}'
+    schema_version: 1
+  '25':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '28':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:obsidian
+    count: 1
+    components:
+      minecraft:enchantments: '{"minecraft:mending":1}'
+      minecraft:custom_name: '{bold:1b,color:"light_purple",italic:0b,text:"ᴇɴᴄʜᴀɴᴛᴇᴅ
+        ᴏʙꜱɪᴅɪᴀɴ"}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"give_obsidian"}}'
+    schema_version: 1
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '31':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:compass
+    count: 1
+    components:
+      minecraft:lore: '[{extra:[{color:"gray",text:"Points to the "},{color:"#FFCC00",text:"Honored
+        One"}],italic:0b,text:""},{color:"gray",italic:0b,text:"while the Assessment
+        window is open."}]'
+      minecraft:lodestone_tracker: '{tracked:0b}'
+      minecraft:custom_name: '{bold:1b,color:"red",italic:0b,text:"Juggernaut''s Compass"}'
+      minecraft:custom_data: '{PublicBukkitValues:{"bliss:ho_compass":"juggernaut"}}'
+    schema_version: 1
+  '33':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:nether_star
+    count: 1
+    components:
+      minecraft:lore: '[{extra:[{color:"gray",text:"Used to craft the "},{color:"light_purple",text:"Restoration
+        "},{color:"gray",text:"item."}],italic:0b,text:""}]'
+      minecraft:custom_name: '{bold:1b,color:"light_purple",italic:0b,text:"ʀᴇsᴛᴏʀᴀᴛɪᴏɴ
+        ᴄᴏʀᴇ"}'
+      minecraft:enchantments: '{"minecraft:mending":1}'
+      minecraft:tooltip_display: '{hidden_components:["minecraft:enchantments"]}'
+      minecraft:custom_data: '{PublicBukkitValues:{"bliss:restoration_core":1b}}'
+    schema_version: 1
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '40':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '41':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '42':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '43':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '44':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '45':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:arrow
+    count: 1
+    components:
+      minecraft:lore: '["§7Back to page 1"]'
+      minecraft:custom_name: '{italic:0b,text:"§e§l← Previous Page"}'
+      minecraft:custom_data: '{PublicBukkitValues:{"blissplugin:menu_fn":"page_prev"}}'
+    schema_version: 1
+  '46':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '47':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '48':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '49':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '50':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '51':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '52':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
+  '53':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4671
+    id: minecraft:green_stained_glass_pane
+    count: 1
+    components:
+      minecraft:custom_name: '" "'
+    schema_version: 1
